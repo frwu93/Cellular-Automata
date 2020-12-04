@@ -127,3 +127,4 @@ the process. We spent a lot of time planning our code before we started, and a t
 on zoom calls together. We all improved our design and utilized a lot of reflection and resource property files
 to practice best design. We split up into roles fairly naturally, and did a good job at all pulling our own weight.
 That said, this was a difficult project for sure, and we spent tons of hours on this project.
+# cellular_automata
